@@ -1,0 +1,19 @@
+{
+  "name": "fiberhome_nodejs",
+  "version": "1.0.0",
+  "description": "Conunicação TL1 com Fiberhome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Lima",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "joi": "^17.3.0",
+    "noogger": "^0.1.8",
+    "oracledb": "^5.0.0",
+    "promise-socket": "^7.0.0",
+    "winston": "^3.1.0"
+  }
+}

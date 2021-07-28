@@ -1,0 +1,11 @@
+# Ignora node_modules
+node_modules
+
+# Ignora o .env
+.env
+
+# Igora arquivos de log
+logs/*.txt
+logs/*.log
+
+wes
